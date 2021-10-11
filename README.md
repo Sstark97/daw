@@ -1,1 +1,1 @@
-# Repositorio para el primer curso de DAW (Desarrollo de Aplicaciones Web)
+# Repositorio público para el primer curso de DAW (Desarrollo de Aplicaciones Web)
